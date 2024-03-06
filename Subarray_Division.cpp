@@ -15,7 +15,7 @@ vector<string> split(const string &);
  *  2. INTEGER d
  *  3. INTEGER m
  */
-
+ 
 int birthday(vector<int> s, int d, int m) 
 {
     int iSum = 0;
