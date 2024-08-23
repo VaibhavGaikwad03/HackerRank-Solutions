@@ -5,7 +5,7 @@ using namespace std;
 string ltrim(const string &);
 string rtrim(const string &); 
  
-/* 
+/*  
  * Complete the 'theLoveLetterMystery' function below.
  * 
  * The function is expected to return an INTEGER.
