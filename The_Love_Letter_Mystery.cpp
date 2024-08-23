@@ -2,7 +2,7 @@
  
 using namespace std;
  
-string ltrim(const string &); 
+string ltrim(const string &);  
 string rtrim(const string &); 
   
 /*  
