@@ -10,7 +10,7 @@ string rtrim(const string &);
  *
  * The function is expected to return an INTEGER.
  * The function accepts STRING s as parameter.
- */
+ */ 
 
 int theLoveLetterMystery(string s)
 {
